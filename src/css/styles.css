@@ -1,0 +1,61 @@
+.PageHeader {
+  text-align: center;
+  color: white;
+  background-color: pink;
+  padding: 20px;
+}
+
+nav {
+  background-color: rgb(101, 201, 234);
+  padding: 10px;
+  color: black;
+}
+
+#bio {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(101, 201, 234);
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
+
+.center-header {
+  text-align: center;
+}
+
+.project-card {
+  text-align: center;
+}
+
+.imgRound {
+  border-radius: 15px;
+}
+
+.center-card {
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  text-align: center;
+}
+
+address {
+  text-align: center;
+  margin: 20px;
+  font-size: 20px;
+}
+
+#submitbtn {
+  background-color: pink;
+  border-color: pink;
+}
+
+.carousel-img {
+  height: 1100px; /* same height for all */
+  width: 100%; /* full width of column */
+  object-fit: cover; /* prevents distortion */
+}
